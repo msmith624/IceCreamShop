@@ -1,4 +1,8 @@
 # IceCreamShop Challenge
+
+<h5><i> Before running my code please go into the include file and run the MySQL Qurey to set up the data base. Next go into the config.php file and configure it to match the user name and password you want to use on your database.</i></h5> 
+
+
 Imagine that you run an ice cream shop. You sell three different main items – ice cream cones, milkshakes, and floats. You have a large number of different flavors of ice cream available.
 
 Ice cream cones can be made of either one or two scoops, and each scoop can be any available flavor. The cone can be only one of the available waffle cones. Milkshakes can only be made with one flavor of ice cream, and must be made with either skim, whole, or 2% milk. Floats can be made with any number of scoops of any number of different flavors, plus one available soda.
